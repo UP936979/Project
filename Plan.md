@@ -32,13 +32,13 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ## P1 areas, basic messaging board
 
-[ ] P1.1
-[ ] P1.2
-[ ] P1.3
-[ ] P1.4
-[ ] P1.5
-[ ] P1.6
-[ ] P1.7
+- [ ] P1.1
+- [ ] P1.2
+- [ ] P1.3
+- [ ] P1.4
+- [ ] P1.5
+- [ ] P1.6
+- [ ] P1.7
 
 ## P2 areas, Messenger-like application
 
