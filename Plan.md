@@ -42,10 +42,10 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ## P2 areas, Messenger-like application
 
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
+- [ ] P2.1
+- [ ] P2.2
+- [ ] P2.3
+- [ ] P2.4
+- [ ] P2.5
+- [ ] P2.6
+- [ ] P2.7
