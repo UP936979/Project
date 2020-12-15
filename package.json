@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Project to advance skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UP936979/Project.git"
+  },
+  "author": "Ollie + Mert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UP936979/Project/issues"
+  },
+  "homepage": "https://github.com/UP936979/Project#readme"
+}

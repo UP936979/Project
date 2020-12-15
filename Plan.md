@@ -6,7 +6,7 @@ Create all necessary files for the project.
 
 ## P1.2 Basic web server set up.
 
-Use npm to get the local server running on port 8080 - must be able to consistently connect.
+Use node to get the local server running on port 8080 - must be able to consistently connect.
 
 ## P1.3 Simple HTML page for message board.
 
@@ -32,8 +32,8 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ## P1 areas, basic messaging board
 
-- [ ] P1.1
-- [ ] P1.2
+- [x] P1.1
+- [x] P1.2
 - [ ] P1.3
 - [ ] P1.4
 - [ ] P1.5
