@@ -52,3 +52,4 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 |Use cases for logging in|-|-|-|-|-|-|
 | description | pre-condition | post-condition | data | valid case | alt case | error case |
+|e\rg|erag|EGR|reg|grer|RG|GrRERG|
