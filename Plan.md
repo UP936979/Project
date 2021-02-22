@@ -50,7 +50,6 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 - [ ] P2.6
 - [ ] P2.7
 
-|Use cases for logging in|-|-|-|-|-|-|
-||
-|e\rg|erag|EGR|reg|grer|RG|GrRERG|
-| description | pre-condition | post-condition | data | valid case | alt case | error case |
+| column 1 |  2  |   3 |
+| :------- | :-: | --: |
+| mayo     | yum | int |
