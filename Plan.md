@@ -52,7 +52,7 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ### Use cases for: Registering Account
 
-| description                              |          pre-condition           |                               post-condition | data                          | valid case                              | alt case | error case                                                      |
-| :--------------------------------------- | :------------------------------: | -------------------------------------------: | ----------------------------- | --------------------------------------- | -------- | --------------------------------------------------------------- |
-| The app will load to the login page      |         The app will run         |             The app will load the login page | n/a                           | The app will open successfully          | n/a      | The app may crash/be unable to load the page                    |
-| The user will validate their credentials | The user has an existing account | The user will be directed to their home page | Valid user email and password | The user will be successfully logged in | n/a      | The user may enter the wrong information or not have an account |
+|               description                |          pre-condition           |                post-condition                |             data              |               valid case                | alt case |                           error case                            |
+| :--------------------------------------: | :------------------------------: | :------------------------------------------: | :---------------------------: | :-------------------------------------: | :------: | :-------------------------------------------------------------: |
+|   The app will load to the login page    |         The app will run         |       The app will load the login page       |              n/a              |     The app will open successfully      |   n/a    |          The app may crash/be unable to load the page           |
+| The user will validate their credentials | The user has an existing account | The user will be directed to their home page | Valid user email and password | The user will be successfully logged in |   n/a    | The user may enter the wrong information or not have an account |
