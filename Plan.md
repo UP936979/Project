@@ -50,6 +50,6 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 - [ ] P2.6
 - [ ] P2.7
 
-| column 1 |  2  |   3 |
-| :------- | :-: | --: |
-| mayo     | yum | int |
+| description |
+| :---------- | :-: | --: | ----- | ---- | --- | --- | --- |
+| mayo        | yum | int | gfrkn | fedd | few | dwq | s   |
