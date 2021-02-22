@@ -49,3 +49,6 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 - [ ] P2.5
 - [ ] P2.6
 - [ ] P2.7
+
+|Use cases for logging in|
+|description|pre-condition|post-condition|data|valid case|alt case|error case|
