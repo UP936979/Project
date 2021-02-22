@@ -52,6 +52,7 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ## testing
 
-| description | pre-condition | post-condition | data  | valid case | alt case | error case |
-| :---------- | :-----------: | -------------: | ----- | ---------- | -------- | ---------- |
-| mayo        |      yum      |            int | gfrkn | fedd       | few      | dwq        |
+| description                         |  pre-condition   |                               post-condition | data | valid case | alt case | error case |
+| :---------------------------------- | :--------------: | -------------------------------------------: | ---- | ---------- | -------- | ---------- |
+| The app will load to the login page | The app will run |             The app will load the login page | n/a  |
+| The app will open successfully      |       n/a        | The app may crash/be unable to load the page |
