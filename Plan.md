@@ -82,3 +82,24 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 |description|pre-condition|post-condition|data|valid case|alternate case|error case|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|navigate to the page/form to upload|The useris successfully logged in and on the home page|The user will have loaded the correct page|n/a|The user will be on the page to upload their bank statement|n/a|The page fails to load correctly|
+||||||||
+|Upload file/input statement data|the user is on the correct page/form|The users' statement information will be submitted|Bank statement uploaded/user will input data themselves|The data will be submitted|n/a|Failure to submit due to invalid data or error in submission process|
+
+### Use cases for: View Money Saving Tips
+
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|User will navigate to tips page|User will be on home page|User will be able to view budgeting tips|n/a|The user will be successfully navigated to the tips page|n/a|The app could crash or fail to load the page correctly|
+||||||||
+|The money saving tips will be loaded to the page|User navigates to the tips page|The tips will be displayed|n/a|The data is successfully loaded and displayed|n/a|The data is not able to be displayed and there is an error in retrieving data|
+
+### Use cases for: View User Specific Money Saving Information
+
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|The user will be navigated to the page|The user will be on the home page|The user will be on the correct page|n/a|The app will successfully load the budgeting page|n/a|The page will fail to load|
+||||||||
+|Generating the budgeting information|The page will successfully load|The budgeting information will be calculated|The banking information the user submitted to their account|Successful calculation of the budgeting information|n/a|The calculations run into errors and cannot be carried out|
+||||||||
+|Displaying the budgeting information|The budeting information will be calculated|The information will be displayed to the user|Calculated budgeting information|The data is successfully displayed to the user|Some but not all information is able to be displayed|The page fails to display the data to the user|
