@@ -16,7 +16,7 @@ Create the basic formatting for a simple message board (simple but functional).
 
 Add the unordered list element and the input area for the message board.
 
-## P1.5 Adding the input to the list when submitted. 
+## P1.5 Adding the input to the list when submitted.
 
 Allow the users input to be added to the message board when submitted.
 
@@ -51,5 +51,6 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 - [ ] P2.7
 
 |Use cases for logging in|-|-|-|-|-|-|
+||
 | description | pre-condition | post-condition | data | valid case | alt case | error case |
 |e\rg|erag|EGR|reg|grer|RG|GrRERG|
