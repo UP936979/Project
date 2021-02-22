@@ -52,7 +52,7 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ### Use cases for: Registering Account
 
-|description|pre-condition|post-condition|data|valid case|alt case|error case|
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |The app will load to the login page|The app will run|The app will load the login page|n/a|The app will open successfully|n/a|The app may crash/be unable to load the page|
 ||||||||
@@ -62,7 +62,7 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ### Use cases for: Logging Into Account
 
-|description|pre-condition|post-condition|data|valid case|alt case|error case|
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |The app will load to the login page|The app will run|The app will load the login page|n/a|The app will open successfully|n/a|The app may crash/be unable to load the page|
 ||||||||
@@ -72,7 +72,7 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ### Use cases for: Recording Key Financial Details
 
-|description|pre-condition|post-condition|data|valid case|alt case|error case|
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Load the form for financial data input|The user has an existing account and on the homepage|The form will be successfully loaded|n/a |The form will be loaded|n/a|The form could fail to load or not load properly|
 ||||||||
@@ -80,5 +80,5 @@ Instead of running form LocalHost, get the server to run from a server anyone ca
 
 ### Use cases for: Uploading Bank Statements
 
-|description|pre-condition|post-condition|data|valid case|alt case|error case|
+|description|pre-condition|post-condition|data|valid case|alternate case|error case|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
