@@ -1,9 +1,11 @@
-const http = require("http");
 // calls in the http module to allow the server to communicate to the server/client
-const host = 'localhost';
 //defines the host of the server
-const port = 8080;
 //defines the port the server will listen to
+
+
+const http = require("http");
+const host = 'localhost';
+const port = 8080;
 
 //function will respond whenever someone accesses the server with string
 const requestListener = function(req, res) {
