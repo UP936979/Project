@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   <h1> Do you want to kiss me?</h1>
   <form action = "/result" method ="POST">
     <input type ="text">
-    <button>Submit Answer<button>
+    <button>Submit Answer</button>
   </form>
   `)
 });
